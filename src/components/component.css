@@ -1,0 +1,48 @@
+.boxList {
+    width: 100%;
+}
+
+.boxList strong {
+    display: contents;
+}
+
+.boxList h1 {
+    margin: 1em 0 0 0;
+    color: #343434;
+    font-weight: normal;
+    font-family: 'Ultra', sans-serif;
+    font-size: 36px;
+    line-height: 35px;
+    text-transform: uppercase;
+    text-shadow: 0 2px white, 0 3px #777;
+}
+
+.boxList h2 {
+    margin-top: 0.2em;
+    color: #343434;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Orienta', sans-serif;
+}
+
+.boxList h3 {
+    margin-top: 0.5em;
+    color: #343434;
+    font-size: 22px;
+    line-height: 20px;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: 'Orienta', sans-serif;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+.boxList h4 {
+    margin-top: 0.5em;
+    color: #343434;
+    font-size: 18px;
+    line-height: 15px;
+    font-weight: normal;
+    font-family: 'Orienta', sans-serif;
+}
